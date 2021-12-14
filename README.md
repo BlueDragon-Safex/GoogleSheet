@@ -7,4 +7,7 @@ Google sheets can be expanded by adding in Apps Script (Javascript) code that ca
 
 Here is an example that links to the blockchain:  https://docs.google.com/spreadsheets/d/1JEJ3pdy4cM9ulqBVK2eJKowNtWNCLEy5uNLnYkG2waw/edit?usp=sharing
 You can make a copy of it. 
-You will also nee dot ensure you have some Apps Script in it. 
+You will also nee dot ensure you have some Apps Script in it. (In your own copy of the GSheet, click "Extensions" in the menu along top, then click "Apps Script"
+
+This uses the "ImportJSON" script from https://github.com/bradjasper/ImportJSON 
+This also uses some custom functions (in this repository)
